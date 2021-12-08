@@ -1,0 +1,4 @@
+name: Messages
+version: '${version}'
+main: de.rexlnico.messages.Messages
+author: rexlNico

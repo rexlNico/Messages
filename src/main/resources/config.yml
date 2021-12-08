@@ -1,0 +1,12 @@
+#coded by rexlNico
+#in minutes
+interval: 10
+messages:
+ -
+   - "-----1-----"
+   - "test"
+   - "-----1-----"
+ -
+   - "-----2-----"
+   - "test2"
+   - "-----2-----"
